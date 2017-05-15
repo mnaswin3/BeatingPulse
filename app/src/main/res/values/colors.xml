@@ -3,4 +3,18 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="cloudburst">#364156</color>
+    <color name="semicloudburst">#8078acea</color>
+    <color name="darkcloudburst">#252d3c</color>
+    <color name="lightcloudburst">#e6364156</color>
+    <color name="customgreen">#3ab481</color>
+    <color name="disabledtext">#bdbdbd</color>
+
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="semiblack">#ff000000</color>
+    <color name="quaterblack">#24000000</color>
+    <color name="yellow">#e5c454</color>
+    <color name="transparent">@android:color/transparent</color>
 </resources>

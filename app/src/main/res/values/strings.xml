@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">ElanicChallenge</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="homescreen_title">Movies Listings</string>
+    <string name="search_hint">Search movies here</string>
+
+    <string name="title">Fight Club</string>
+    <string name="description">A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.</string>
+
+    <string name="anim_image">animation image</string>
+    <string name="anim_title">animation title</string>
+    <string name="anim_description">animation description</string>
+
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_unknown">Something went wrong.</string>
+    <string name="error_file">Could not retrieve data</string>
+
+    <string name="retry">Retry</string>
+
+    <string name="materialicons_ttf">fonts/MaterialIcons-Regular.ttf</string>
+
+    <string name="icon_clear">&#xE14C;</string>
+    <string name="icon_back">&#xE5c4;</string>
+    <string name="icon_search">&#xE8b6;</string>
 </resources>
